@@ -7,7 +7,11 @@ RISTY
 FADHIL
 RAMADHANE
 
+<<<<<<< HEAD
 
 Jakarta Hari Ini
 Denggan do nian ito
 
+=======
+wakhid jelek
+>>>>>>> 9fd528e4044fa04036d5a089ae228da205a70b38
