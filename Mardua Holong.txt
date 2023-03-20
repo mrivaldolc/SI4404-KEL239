@@ -7,4 +7,11 @@ RISTY
 FADHIL
 RAMADHANE
 
+<<<<<<< HEAD
 test
+=======
+
+Jakarta Hari Ini
+Denggan do nian ito
+
+>>>>>>> origin/master
