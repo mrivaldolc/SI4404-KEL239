@@ -7,6 +7,11 @@ RISTY
 FADHIL
 RAMADHANE
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+test
+=======
+=======
 fadhil
 test
 
@@ -29,12 +34,17 @@ RIVALDO
 Denggan do nian ito
 
 
+>>>>>>> 58abfc58fa9ec1e4807ed2ee0ff02acfaaaff87d
 
 Jakarta Hari Ini
 Denggan do nian ito
 
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 
 
 wakhid jelek
 
 master
+>>>>>>> 58abfc58fa9ec1e4807ed2ee0ff02acfaaaff87d
