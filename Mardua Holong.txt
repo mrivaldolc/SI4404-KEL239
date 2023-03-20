@@ -7,6 +7,8 @@ RISTY
 FADHIL
 RAMADHANE
 
+fadhil
+test
 
 
 PREMA 
@@ -32,9 +34,7 @@ Jakarta Hari Ini
 Denggan do nian ito
 
 
-=======
+
 wakhid jelek
-=======
 
-
-
+master
